@@ -1,0 +1,23 @@
+Introduction to Electrical Circuits Lab: 
+
+Lab Report Format: 
+1. Abstract (from lab manual); 
+2. Objectives (from lab manual); 
+3. Experimental Circuit Diagram (if any); 
+4. Simulation Set-up (using MultiSIM, Home Work); 
+5. Hardware Set-up (photograph); 
+6. Experimental Data Table (based on calcuation and measurement, hand written)/Oscillogram (photographs) (if any)/Outputs (using photographs); 
+7. Simulation Results (plots/data/figure/image, must be done using Proteus, Home Work); 
+8. Graphs/Plots (if any); 
+9. Sample Calculations (hand written/typed, if any); 
+10. Discussions (hand written/typed, it is a must).
+
+
+Prof. Dr. Engr. Muhibul Haque Bhuyan
+ID# 2203-2153-2
+Professor
+Department of Electrical and Electronic Engineering
+American International University Bangladesh (AIUB)
+Room # DN514
+Cell: +88-01815-657346, +88-01771-051738
+Email: muhibulhb@aiub.edu
