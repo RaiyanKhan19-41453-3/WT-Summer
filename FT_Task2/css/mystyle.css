@@ -1,0 +1,56 @@
+div.center{
+    text-align: center;
+    background-color: rgb(198, 253, 253);
+    height: 120px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+div h2{
+    color:blue;
+}
+
+.space{
+    word-spacing: 30px;
+    background-color: rgb(66, 4, 75);
+    color:white;
+    height: 40px;
+    padding-top: 20px;
+    margin-top: 0px;
+}
+
+div h3
+{
+    border-left: 15px solid rgb(92, 131, 163);
+    font-size: 30px;
+    background-color: rgb(161, 202, 202);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+table
+{
+    background-color: yellow;
+}
+
+body
+{
+    background-color: rgb(99, 203, 211);
+}
+
+th, td{
+    border-bottom: 1px solid;
+}
+
+.button{
+    background-color: blue;
+    color:black;
+    width: 100px;
+    font-weight: bold;
+    margin-right :10px;
+}
+
+.line-1{
+    height: 1px;
+    background: white;
+    border: 10;
+}
